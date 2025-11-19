@@ -18,7 +18,6 @@ public class H3_main {
 
             // Wie viele Stücke dieses Werts werden benötigt?
             int anzahl = rest / wert;
-            System.out.println("Wert: " + wert + " Anzahl: " + anzahl);
             // In die zweite Zeile eintragen
             einheiten[1][i] = anzahl;
 
